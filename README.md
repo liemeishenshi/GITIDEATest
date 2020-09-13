@@ -1,0 +1,2 @@
+# GITIDEATest
+在IDEA上厕所GIT的使用
